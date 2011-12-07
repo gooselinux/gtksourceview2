@@ -1,0 +1,48 @@
+diff -urN a/po/ml.po b/po/ml.po
+--- a/po/ml.po	2010-05-04 11:12:47.954030308 +0530
++++ b/po/ml.po	2010-05-04 11:17:33.211162674 +0530
+@@ -1,3 +1,4 @@
++# translation of new_ml_gtksourceview.po to
+ # translation of gtksourceview.master.ml.po to
+ # translation of gtksourceview.HEAD.ml.po to
+ # This file is distributed under the same license as the PACKAGE package.
+@@ -7,10 +8,10 @@
+ #
+ msgid ""
+ msgstr ""
+-"Project-Id-Version: gtksourceview.master.ml\n"
++"Project-Id-Version: new_ml_gtksourceview\n"
+ "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtksourceview&component=general\n"
+ "POT-Creation-Date: 2009-07-18 11:41+0000\n"
+-"PO-Revision-Date: 2009-09-12 23:02+0530\n"
++"PO-Revision-Date: 2010-05-04 11:17+0530\n"
+ "Last-Translator: \n"
+ "Language-Team:  <en@li.org>\n"
+ "MIME-Version: 1.0\n"
+@@ -804,7 +805,7 @@
+ #: ../gtksourceview/language-specs/verilog.lang.h:7
+ #: ../gtksourceview/language-specs/vhdl.lang.h:8
+ msgid "Sources"
+-msgstr "ഉറവിടങ്ങള്‍‍"
++msgstr "ഉറവിടങ്ങള്‍"
+ 
+ #: ../gtksourceview/language-specs/ada.lang.h:12
+ #: ../gtksourceview/language-specs/c.lang.h:17
+@@ -889,7 +890,7 @@
+ #: ../gtksourceview/language-specs/prolog.lang.h:4
+ #: ../gtksourceview/language-specs/vhdl.lang.h:6
+ msgid "Number"
+-msgstr "സംഖ്യകള്‌"
++msgstr "സംഖ്യകള്‍"
+ 
+ #. Operators: "+", "*", etc.
+ #: ../gtksourceview/language-specs/asp.lang.h:9
+@@ -1406,7 +1407,7 @@
+ #: ../gtksourceview/language-specs/xml.lang.h:9
+ #: ../gtksourceview/language-specs/xslt.lang.h:2
+ msgid "Markup"
+-msgstr "കരുതല്"
++msgstr "മാര്‍ക്കപ്പ്"
+ 
+ #: ../gtksourceview/language-specs/docbook.lang.h:6
+ msgid "Structural Elements"
